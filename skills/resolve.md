@@ -15,7 +15,7 @@ Contests of resolve might reflect particularly challenging games, like chess, or
 
 <span class="fate-font big">D</span> **Defend:** Resolve is the main skill you use to defend against mental attacks, representing your control over your reactions.
 
-**Special:** The Resolve skill gives you additional mental stress boxes or consequence slots. Average (+1) or Fair (+2) gives you a 3-point stress box. Good (+3) or Great (+4) gives you a 3-point and a 4-point stress box. Superb (+5) and above give you an additional mild consequence slot along with the additional stress boxes. This slot can only be used for mental harm.
+**Special:** The Resolve skill determines the number of mental [stress](/stress) boxes you have.  Ratings of Average (+1) to Great (+4) give you 1 stress box per point.  Superb (+5) and above gives you an additional mild consequence slot which can only be used for mental harm.
 
 ### Resolve Stunts
 - **Strength From Determination.** Use Resolve instead of [?]() on any overcome rolls representing feats of strength.
