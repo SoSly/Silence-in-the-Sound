@@ -11,7 +11,7 @@ The Bond skill is all about making positive connections to people and eliciting 
 
 <span class="fate-font big">A</span> **Attack:** Bond doesn't cause harm, so you don't use it for attacks.
 
-<span class="fate-font big">D</span> **Defend:** Bond defends against any skill used to damage your reputation, sour a mood you've created, or make you look bad in front of other people. It does not, however, defend against mental attacks. That requires [Resolve](resolve).
+<span class="fate-font big">D</span> **Defend:** Bond defends against any skill used to damage your reputation, sour a mood you've created, or make you look bad in front of other people. It does not, however, defend against mental attacks. That requires [Will](will).
 
 ### Bond Stunts
 - **Best Foot Forward.** Twice per session, you may upgrade a boost you receive with Bond into a full situation aspect with a free invocation.
