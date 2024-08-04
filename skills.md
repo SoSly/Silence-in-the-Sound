@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Skills & Stunts
-permalink: /skills
 ---
 
 # Skills & Stunts
