@@ -1,3 +1,7 @@
+layout: page
+title: Skills & Stunts
+permalink: /skills
+
 # Skills & Stunts
 A **skill** is a verb which completes the sentence "I would like to &laquo;verb&raquo;", such as [charm](./skills/charm.md), [drive](./skills/drive.md), or [notice](./skills/notice.md).  Your character might have gained their competency in a skill through innate talent, training, or years of trail and error.  Skills are the basis for everything your character actually does in the game that involves challenge and chance (and dice).
 
@@ -8,7 +12,6 @@ We define skills in two ways in Fate--in terms of the game actions that you can 
 ## The Basic Game Actions
 Every skill comes with a definition and examples of how it can be used to accomplish the four basic game actions.
 
-| <!-- --> | <!-- -->
 | <span class="fate-font big">O</span> | **Overcome:** True to its name, you tackle some kind of challenge, engaging task, or hindrance related to your skill.
 | <span class="fate-font big">C</span> | **Create an Advantage:** Whether you’re discovering something that already exists about an opponent or creating a situation that helps you succeed, creating advantages allows you to discover and create aspects, and lets you get free invocations of them.
 | <span class="fate-font big">A</span> | **Attack:** You try to harm someone in a conflict. That harm may be physical, mental, emotional, social, or magical in nature.
