@@ -9,9 +9,9 @@ The Charm skill is all about making positive connections to people and eliciting
 
 <span class="fate-font big">C</span> **Create an Advantage:** Use Charm to establish a positive mood on a target or in a scene or to get someone to confide in you out of a genuine sense of trust. You could pep talk someone into having `Elevated Confidence`, or stir a crowd into a `Joyful Fervor`, or simply make someone `Talkative` or `Helpful`.
 
-<span class="fate-font big">A</span> **Attack:** Use Charm to wear down someone's resolve through positive social pressure. This could involve swaying an audience against them, making them want to please you to their own detriment, or using your likeability to extract information they'd rather not share.
+<span class="fate-font big">A</span> **Attack:** Charm doesn't cause harm, so you don't use it for attacks.
 
-<span class="fate-font big">D</span> **Defend:** Use Charm to deflect social attacks by maintaining a likeable demeanor. This can defend against intimidation attempts, discrediting efforts, or attempts to read your true intentions when you're trying to keep them hidden behind a genuinely charming facade.
+<span class="fate-font big">D</span> **Defend:** Charm defends against any skill used to damage your reputation, sour a mood you've created, or make you look bad in front of other people. It does not, however, defend against mental attacks. That requires [Resolve](/skills/resolve)
 
 ### Charm Stunts
 - **Best Foot Forward.** Twice per session, you may upgrade a boost you receive with Charm into a full situation aspect with a free invocation.
