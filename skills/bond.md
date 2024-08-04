@@ -11,9 +11,9 @@ The Bond skill is all about making positive connections to people and eliciting 
 
 <span class="fate-font big">A</span> **Attack:** Bond doesn't cause harm, so you don't use it for attacks.
 
-<span class="fate-font big">D</span> **Defend:** Bond defends against any skill used to damage your reputation, sour a mood you've created, or make you look bad in front of other people. It does not, however, defend against mental attacks. That requires [Resolve](/skills/resolve).
+<span class="fate-font big">D</span> **Defend:** Bond defends against any skill used to damage your reputation, sour a mood you've created, or make you look bad in front of other people. It does not, however, defend against mental attacks. That requires [Resolve](resolve).
 
 ### Bond Stunts
 - **Best Foot Forward.** Twice per session, you may upgrade a boost you receive with Bond into a full situation aspect with a free invocation.
 - **Demagogue.** +2 to Bond when you’re delivering an inspiring speech in front of a crowd. (If there are named NPCs or PCs in the scene, you may target them all simultaneously with one roll rather than dividing up your shifts.)
-- **Popular.** If you’re in an area where you’re popular and well-liked, you can use Bond in place of [Network](/skills/network). You may be able to establish your popularity by spending a fate point to declare a story detail, or because of prior justification.
+- **Popular.** If you’re in an area where you’re popular and well-liked, you can use Bond in place of [Network](network). You may be able to establish your popularity by spending a fate point to declare a story detail, or because of prior justification.

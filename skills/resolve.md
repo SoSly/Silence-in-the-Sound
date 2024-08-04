@@ -3,7 +3,7 @@ title: Resolve
 ---
 
 ## Resolve
-The Resolve skill represents your character’s general level of mental fortitude, the same way that [Endure](/skills/endure)] represents your physical fortitude.
+The Resolve skill represents your character’s general level of mental fortitude, the same way that [Endure](endure) represents your physical fortitude.
 
 <span class="fate-font big">O</span> **Overcome:** You can use Resolve to pit yourself against obstacles that require mental effort. Puzzles and riddles can fall under this category, as well as any mentally absorbing task, like deciphering a code. Use Resolve when it’s only a matter of time before you overcome the mental challenge, and [Analyze](/skills/analyze) if it takes something more than brute mental force to get past it. Many of the obstacles that you go up against with Resolve might be made part of challenges, to reflect the effort involved.
 
@@ -11,7 +11,7 @@ Contests of resolve might reflect particularly challenging games, like chess, or
 
 <span class="fate-font big">C</span> **Create an Advantage:** You can use Resolve to place aspects on yourself, representing a state of deep concentration or focus.
 
-<span class="fate-font big">A</span> **Attack:** Resolve isn’t really used for attacks. That said, it may be possible to earn a [supernatural extra](/extras) which will allow attacking using your Resolve.
+<span class="fate-font big">A</span> **Attack:** Resolve isn’t really used for attacks. That said, it may be possible to earn a [supernatural extra](../extras) which will allow attacking using your Resolve.
 
 <span class="fate-font big">D</span> **Defend:** Resolve is the main skill you use to defend against mental attacks, representing your control over your reactions.
 
@@ -20,4 +20,4 @@ Contests of resolve might reflect particularly challenging games, like chess, or
 ### Resolve Stunts
 - **Strength From Determination.** Use Resolve instead of [?]() on any overcome rolls representing feats of strength.
 - **Hard Boiled.** You can choose to ignore a mild or moderate consequence for the duration of the scene. It can’t be compelled against you or invoked by your enemies. At the end of the scene it comes back worse, though; if it was a mild consequence it becomes a moderate consequence, and if it was already moderate, it becomes severe.
-- **Indomitable.** +2 to defend against [Provoke](/skills/provoke) attacks specifically related to intimidation and fear.
+- **Indomitable.** +2 to defend against [Provoke](provoke) attacks specifically related to intimidation and fear.

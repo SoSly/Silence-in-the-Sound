@@ -15,7 +15,7 @@ You can also use Deceive to do small tricks of sleight-of-hand and misdirection.
 
 <span class="fate-font big">A</span> Attack: Deceive is an indirect skill that creates a lot of opportunities you can capitalize on, but it doesn’t do direct harm to an individual.
 
-<span class="fate-font big">D</span> Defend: You can use Deceive to throw off Investigation attempts with false information and to defend against efforts made to discern your true motives with the Empathy skill.
+<span class="fate-font big">D</span> Defend: You can use Deceive to throw off [Investigate](investigate) attempts with false information and to defend against efforts made to discern your true motives with the Empathy skill.
 
 ### Deceive Stunts
 - **Lies upon Lies.** +2 to create a Deceive advantage against someone who has believed one of your lies already during this session.
