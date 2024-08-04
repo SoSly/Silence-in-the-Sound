@@ -1,6 +1,8 @@
+---
 layout: page
 title: Skills & Stunts
 permalink: /skills
+---
 
 # Skills & Stunts
 A **skill** is a verb which completes the sentence "I would like to &laquo;verb&raquo;", such as [charm](./skills/charm.md), [drive](./skills/drive.md), or [notice](./skills/notice.md).  Your character might have gained their competency in a skill through innate talent, training, or years of trail and error.  Skills are the basis for everything your character actually does in the game that involves challenge and chance (and dice).
