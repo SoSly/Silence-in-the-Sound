@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@font-face {
+    font-family: 'Fate Core';
+    src: url(../fonts/Fate\ Core\ Font.ttf) format('truetype')   
+}
+
+.fate-font { font-family: 'Fate Core'; }
