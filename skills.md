@@ -36,3 +36,15 @@ You can also use this to set apart a certain set of abilities as belonging to a 
 
 #### Stunts and Refresh
 Taking a new stunt beyond the first three reduces your character’s refresh rate by one.
+
+## Skill List
+These are the list of skills available to characters in **Silence in the Sound**.  Each skill description contains a list of game actions that you can use the skill for. THis list is not necessarily exhaustive--see our guidelines for what to do with [edge cases](/edge cases.md).
+
+| Skill | Overcome | Create an Advantage | Attack | Defend
+| :- | :-: | :-: | :-: | :-: | :-:
+| [Charm](/skills/charm.md)  | X | X | | X
+| [Deceive](/skills/deceive.md) | X | X | | X
+| [Empathize](/skills/empathize.md) | X | X | | X
+
+### Creating Skills
+This skill list is designed to reinforce the gameplay for **Silence in the Sound**; however, it is possible for some characters to have niche or novel skills not represented here. If you believe your character qualifies for a unique skill, work with your **Game Master** to define that skill and have it added to your sheet.
