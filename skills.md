@@ -17,12 +17,12 @@ These are the list of skills available to characters in **Silence in the Sound**
 | [Endure]<!-- Physique --> | | | | &nbsp;
 | [Engineer]<!-- complex system design and creation --> | | | | &nbsp;
 | [Exert]<!-- Athletics --> | | | | &nbsp;
-| [Fabricate]<!-- large physical object creation --> | | | | &nbsp;
 | [Fight] | | | | &nbsp;
 | [Finesse]<!-- Burglary --> | | | | &nbsp;
 | [Investigate] | | | | &nbsp;
 | [Network](skills/network) | X | X | | X
 | [Notice] | | | | &nbsp;
+| [Perform] | | | | &nbsp;
 | [Provoke](skills/provoke) | X | X | X | &nbsp;
 | [Research]<!-- Lore --> | | | | &nbsp;
 | [Sneak]<!-- Stealth --> | | | | &nbsp;
