@@ -9,6 +9,7 @@ We define skills in two ways in Fate--in terms of the game actions that you can 
 Every skill comes with a definition and examples of how it can be used to accomplish the four basic game actions.
 
 <ul>
+
 <span class="fate-font big">O</span> **Overcome:** True to its name, you tackle some kind of challenge, engaging task, or hindrance related to your skill.
 
 <span class="fate-font big">C</span> **Create an Advantage:** Whether you’re discovering something that already exists about an opponent or creating a situation that helps you succeed, creating advantages allows you to discover and create aspects, and lets you get free invocations of them.
@@ -16,6 +17,7 @@ Every skill comes with a definition and examples of how it can be used to accomp
 <span class="fate-font big">A</span> **Attack:** You try to harm someone in a conflict. That harm may be physical, mental, emotional, social, or magical in nature.
 
 <span class="fate-font big">D</span> **Defend:** You try to keep someone from harming you, getting past you, or creating an advantage to use against you.
+
 </ul>
 
 There are also some special effects that some skills perform, such as giving you additional [stress](/stress.md) boxes for a conflict.  See [endure](./skills/endure.md) for an example.
