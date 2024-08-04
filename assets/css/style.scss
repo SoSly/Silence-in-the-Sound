@@ -10,3 +10,28 @@
 
 .big { font-size: 2em; line-height: 1.2em; }
 .fate-font { font-family: 'Fate Core'; font-weight: 400; }
+
+#header {
+    #title {
+        border: 0;
+        outline: none;
+        margin: 0 0 50px 0;
+        padding: 0 0 5px 0;
+        
+        h1 {
+            font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-weight: normal;
+            font-size: 40px;
+            text-align: center;
+            line-height: 36px;
+        }
+
+        p {
+            color: #d7cfbe;
+            font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-weight: normal;
+            font-size: 18px;
+            text-align: center;
+        }      
+    }
+}
