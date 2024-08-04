@@ -8,4 +8,4 @@ We define skills in two ways in Fate--in terms of the game actions that you can 
 ## The Basic Game Actions
 Every skill comes with a definition and examples of how it can be used to accomplish the four basic game actions.
 
-<span class="fate-font">O</span> **Overcome:** 
+<span class="fate-font big">O</span> **Overcome:** 
